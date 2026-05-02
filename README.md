@@ -26,3 +26,7 @@ If you followed the steps correctly, you should see something that looks like th
 ![](assets/folders.png)
 
 Congratulations, you successfully ported an existing game using rbxlx-to-rojo!
+
+## Attribution
+
+See [ATTRIBUTION.md](../ATTRIBUTION.md) for a list of original contributors and a short note about AI-assisted edits and affiliation.
