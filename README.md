@@ -1,4 +1,4 @@
-# rbxlx-to-rojo (now supports .rbxl!)
+# rbxlx-to-rojo-FIXED (now supports .rbxl too which the original one wasn't working!)
 Tool to convert existing Roblox games into Rojo projects by reading their `rbxl` or `rbxlx` place files.
 
 # Using rbxlx-to-rojo
