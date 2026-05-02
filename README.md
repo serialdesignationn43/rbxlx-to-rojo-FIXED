@@ -29,4 +29,4 @@ Congratulations, you successfully ported an existing game using rbxlx-to-rojo!
 
 ## Attribution
 
-See [ATTRIBUTION.md](../ATTRIBUTION.md) for a list of original contributors and a short note about AI-assisted edits and affiliation.
+See [ATTRIBUTION.md](https://github.com/serialdesignationn43/rbxlx-to-rojo-FIXED/blob/main/ATTRIBUTION.md) for a list of original contributors and a short note about AI-assisted edits and affiliation.
